@@ -1,8 +1,4 @@
 Cold and dry, but eerything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
-<<<<<<< HEAD
-We added a different line in another copy
-=======
-This line added to Wolfman's Copy
->>>>>>> 09e85114f05848e4143d1fb4a585f832fd33adac
+We removed the conflict on this line
